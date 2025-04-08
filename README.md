@@ -36,10 +36,7 @@ A simple Node.js script to list available generative models provided by the Goog
     npm install dotenv node-fetch
     ```
 
-3.  **Edit Environment File:**
-    Edit a file named `.env` in the same directory as the script.
-
-4.  **Add API Key to `.env` file:**
+3.  **Add API Key to `.env` file:**
     Open the `.env` file and add your Google AI API Key like this:
     ```dotenv
     # .env
