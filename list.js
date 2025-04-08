@@ -1,4 +1,4 @@
-// list_models.js
+// list.js
 require('dotenv').config(); // Load environment variables from .env file
 const fetch = require('node-fetch'); // Use node-fetch to make HTTP requests
 
