@@ -53,4 +53,4 @@ Run the script from your terminal:
 
 ```bash
 node list_models.js
-```bash
+```
